@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    padding-bottom: 100vh;
+    background-image: url(krasiviy_vid1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1vh;
+}
+.text1{
+    text-decoration: none;
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-left: 15vh;
+    margin-right: 1vh;
+    vertical-align: 6vh;
+}
+.text11{
+    text-decoration: none;
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-left: 19vh;
+    margin-right: 7vh;
+    vertical-align: 6vh;
+}
+.text12{
+    text-decoration: none;
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-left: 15vh;
+    margin-right: 7vh;
+    vertical-align: 6vh;
+}
+.logo1{
+    margin-left: 20vh;
+    margin-right: 5vh;
+    width: 17vh;
+    margin-top: 2vh;
+}
+.title1{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 9vh;
+    text-align: center;
+    margin-top: 7vh;
+    margin-bottom: 5vh;
+}
+.write1{
+    text-align: center;
+}
+.input1{
+    font-size: 3.5vh;
+    margin-right: 10vh;
+    border-radius: 1vh;
+    border-color: aliceblue;
+    box-shadow: 3px 3px 3px rgb(69, 69, 69);
+}
+.input2{
+    font-size: 3.5vh;
+    margin-left: 5vh;
+    border-radius: 1vh;
+    border-color: aliceblue;
+    box-shadow: 3px 3px 3px rgb(69, 69, 69);
+}
+.write2{
+    text-align: center;
+    padding-top: 3vh;
+}
+.input3{
+    width: 101vh;
+    height: 25vh;
+    border-radius: 2vh;
+    border-color: aliceblue;
+    box-shadow: 3px 3px 3px rgb(69, 69, 69);
+}
+.input3::placeholder {
+    transform: translateY(-11vh);
+}
+.submit1{
+    margin-left: 87vh;
+    margin-top: 2vh;
+    font-size: 4vh;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 1vh;
+    border-color: azure;
+    box-shadow: 3px 3px 3px rgb(69, 69, 69);
+}
+.end{
+    background-color: aliceblue;
+    height: 13vh;
+}
+.logo2{
+    float: left;
+    width: 7%;
+    margin-left: 15vh;
+    margin-top: 2vh;
+    margin-right: 5vh;
+
+}
+.logo3{
+    float: left;
+    width: 4%;
+    margin-top: 2vh;
+    margin-left: 8vh;
+    font-size: 5vh;
+    
+}
+.number{
+    float: left;
+    margin-top: 4vh;
+    font-size: 5vh;
+    margin-left: 18vh;
+}
+.email{
+    float: right;
+    font-size: 5vh;
+    margin-right: 10vh;
+    margin-top: 4vh;
+}

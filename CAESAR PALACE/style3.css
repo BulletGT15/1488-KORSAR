@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    padding-bottom: 100vh;
+    background-image: url(krasiviy_vid1.png);
+    background-repeat: no-repeat;
+    background-size: 250vh;
+    width: 100%;
+    height: 20vh;
+}
+.text1{
+    text-decoration: none;
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-left: 15vh;
+    margin-right: 1vh;
+    vertical-align: 6vh;
+}
+.text11{
+    text-decoration: none;
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-left: 19vh;
+    margin-right: 7vh;
+    vertical-align: 6vh;
+}
+.text12{
+    text-decoration: none;
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-left: 15vh;
+    margin-right: 7vh;
+    vertical-align: 6vh;
+}
+.logo1{
+    margin-left: 20vh;
+    margin-right: 5vh;
+    width: 17vh;
+    margin-top: 2vh;
+}
+.title1{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 9vh;
+    margin-left: 90vh;
+    margin-top: 7vh;
+    margin-bottom: 5vh;
+}
+.main2{
+    background-color: #7495C2;
+    box-shadow: 0px -25px 25px #7495C2;
+    text-shadow: 1px 1px 1px #7495C2;
+    width: 100%;
+    height: 90vh;
+}
+.adress{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 3vh;
+    margin-left: 5vh;
+}
+.location{
+    height: 5vh;
+}
+.text21{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-top: 10vh;
+    margin-left: 8vh;
+}
+.text22{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-top: 4vh;
+    margin-left: 7vh;
+    margin-right: 10vh;
+}
+.text23{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-top: 4vh;
+    margin-left: 7vh;
+    margin-right: 10vh;
+}
+.text24{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-top: 4vh;
+    margin-left: 7vh;
+    margin-right: 10vh;
+}
+.text31{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 5vh;
+    margin-top: 10vh;
+    margin-left: 8vh;
+}
+.chapter3{
+    padding-bottom: vh;
+    padding-top: 5vh;
+    margin-left: 3vh;
+}
+.icon1{
+    float: left;
+}
+.icon2{
+    float: left;
+}
+.gym{
+    padding-top: 5vh;
+    vertical-align: -3vh;
+    margin-right: 2vh;
+    width: 13vh;
+}
+.text32{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-right: 10vh;
+    float: left;
+}
+.swim{
+    padding-top: 2vh;
+    vertical-align: -4vh;
+    margin-right: 2vh;
+    width: 13vh;
+}
+.text33{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-right: 10vh;
+    float: left;
+}
+.parking{
+    padding-top: 2vh;
+    vertical-align: -4vh;
+    margin-right: 2vh;
+    width: 13vh;
+}
+.text34{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-right: 10vh;
+    float: left;
+}
+.spa{
+    padding-top: 2vh;
+    vertical-align: -6vh;
+    margin-right: 2vh;
+    width: 13vh;
+}
+.text35{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-right: 10vh;
+    float: left;
+}
+.eat{
+    padding-top: 2vh;
+    vertical-align: -5vh;
+    margin-right: 2vh;
+    width: 13vh;
+}
+.text36{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-right: 10vh;
+    float: left;
+}
+.bar{
+    padding-top: 2vh;
+    vertical-align: -5vh;
+    margin-right: 2vh;
+    width: 13vh;
+}
+.text37{
+    font-family: "Philosopher", sans-serif;
+    color: #FFB800;
+    text-shadow: 2px 2px 1px #f00;
+    font-size: 4vh;
+    margin-right: 10vh;
+    float: left;
+}
+.end{
+    background-color: aliceblue;
+    height: 13vh;
+}
+.logo2{
+    float: left;
+    width: 7%;
+    margin-left: 15vh;
+    margin-top: 2vh;
+    margin-right: 5vh;
+
+}
+.logo3{
+    float: left;
+    width: 4%;
+    margin-top: 2vh;
+    margin-left: 8vh;
+    font-size: 5vh;
+    
+}
+.number{
+    float: left;
+    margin-top: 4vh;
+    font-size: 5vh;
+    margin-left: 18vh;
+}
+.email{
+    float: right;
+    font-size: 5vh;
+    margin-right: 10vh;
+    margin-top: 4vh;
+}
